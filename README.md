@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @BLOOOMF
-- 👀 I’m interested in developing 
-- 🌱 I’m currently learning bca
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me i heared my friend talk about github
+- 
 - 
 
 <!---
